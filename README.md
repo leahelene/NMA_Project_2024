@@ -1,2 +1,2 @@
 # NMA_Project_2024
-# getting started
+just getting started
